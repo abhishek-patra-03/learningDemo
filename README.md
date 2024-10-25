@@ -1,4 +1,4 @@
 # learningDemo
 This is my first GitHub repo
 <br>
-Author - Abhishek Patra
+Author - Abhishek Patra(Student)
